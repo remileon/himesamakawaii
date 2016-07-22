@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+}
+.nav {
+	backgroud-color: #dddddd;
+	height: 60px;
+	width: 100%;
+	text-align: center;
+}
+.nav p {
+	line-height: 60px;
+}
+.container {
+	width: 1080px;
+	height: 100%;
+	margin: 0 auto;
+}
